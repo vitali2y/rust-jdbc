@@ -1,0 +1,7 @@
+[package]
+name = "jdbc"
+version = "0.1.0"
+authors = ["Aurora <aurora@aventine.se>"]
+
+[dependencies]
+jvm = { git = "http://github.com/di3663/rust-jvm" }
