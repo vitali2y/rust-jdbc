@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Aurora <aurora@aventine.se>"]
 
 [dependencies]
-jvm = { git = "http://github.com/di3663/rust-jvm" }
+jvm = { git = "https://github.com/vitali2y/rust-jvm" }
